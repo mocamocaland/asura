@@ -1,6 +1,6 @@
 {application,asura,
              [{applications,[kernel,stdlib,elixir,logger]},
-              {description,"asura"},
+              {description,"Elixir admin screen"},
               {modules,['Elixir.Asura']},
               {registered,[]},
               {vsn,"0.1.0"}]}.
